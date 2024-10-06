@@ -43,5 +43,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://zamam-moeez.github.io/"
+  "homepage": "https://zamam-moeez.github.io/",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
